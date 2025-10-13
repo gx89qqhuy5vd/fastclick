@@ -38,3 +38,5 @@ Suffix
                make a graph as in the FastClick paper (packet size vs throughput)
 - -playcap  : Instead of UDP, uses a PCAP file
 - -replaycap: Use a PCAP file pre-loaded in memory
+
+<!-- Auto-update: 2025-10-14T05:59:23.780991 -->
