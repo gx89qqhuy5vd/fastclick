@@ -38,3 +38,5 @@ Folders are organised by demonstrated feature. But some example of course
 ### FastClick vs Click
 An interesting example is to compare router-vanilla.click and router.click, which implement the basic Click router using respectively vanilla Click and FastClick to emphase the easier configuration in multiqueue + multithread context, perhaps the better improvement of FastClick after performances, but more difficult to show in the paper. Note that if you run router-vanilla on FastClick, the improvement made to Click core system will already improve the performances as opposed to running it in vanilla Click directly.
 
+
+<!-- Auto-update: 2025-10-18T09:08:05.792332 -->
